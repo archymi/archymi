@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ### 💫 Experience
-#### 20.01 ~ 21.08 : TmaxSoft(TmaxTibero) - Prosync(Changed Data Capture, CDC)
+#### 20.01 ~ 21.08 : TmaxTibero- Prosync(Changed Data Capture, CDC)
 #### 21.08 ~ NOW : SK C&C financial software engineer
 
 <!--
