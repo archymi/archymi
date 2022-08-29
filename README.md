@@ -2,7 +2,7 @@
 
 ### 💫 Experience
 #### 20.01 ~ 21.08 : TmaxTibero- Prosync(Changed Data Capture, CDC)
-#### 21.08 ~ NOW : SK C&C financial software engineer(Nexcore Java Spring Framework)
+#### 21.08 ~ NOW : SK C&C financial software engineer (NEXCORE Java Spring Framework)
 
 <!--
 **archymi/archymi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
